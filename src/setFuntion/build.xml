@@ -1,0 +1,10 @@
+<project name="testFuntion2" default="init" basedir=".">
+    
+    <target name="init">
+       
+       <copy encoding="UTF-8" includeemptydirs="false" todir="Y:\babylon\ysphr\setFuntion">
+           <fileset dir="D:\EmakerProject\testFuntion2\src\setFuntion">
+                      </fileset>
+       </copy>
+    </target>
+</project>
